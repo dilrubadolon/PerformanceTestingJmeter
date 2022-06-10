@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1654801448292,2239,Homepage,200,OK,Thread Group 1-2,text,true,,209680,124,6,6,https://www.abulkhairgroup.com/,1527,0,471
+1654801448783,2003,Homepage,200,OK,Thread Group 1-3,text,true,,209672,124,6,6,https://www.abulkhairgroup.com/,1227,0,192
+1654801449281,2247,Homepage,200,OK,Thread Group 1-4,text,true,,209672,124,8,8,https://www.abulkhairgroup.com/,1237,0,199
+1654801450541,1376,about,200,OK,Thread Group 1-2,text,true,,156743,220,9,9,https://www.abulkhairgroup.com/about-us/,969,0,0
+1654801450289,1862,Homepage,200,OK,Thread Group 1-6,text,true,,209672,124,9,9,https://www.abulkhairgroup.com/,1234,0,175
+1654801447924,4282,Homepage,200,OK,Thread Group 1-1,text,false,"The operation lasted too long: It took 4,282 milliseconds, but should not have lasted longer than 4,000 milliseconds.",209680,124,9,9,https://www.abulkhairgroup.com/,2626,0,839
+1654801449801,2452,Homepage,200,OK,Thread Group 1-5,text,true,,209680,124,9,9,https://www.abulkhairgroup.com/,1220,0,168
+1654801450798,1837,about,200,OK,Thread Group 1-3,text,true,,156743,220,10,10,https://www.abulkhairgroup.com/about-us/,1002,0,0
+1654801451529,1716,about,200,OK,Thread Group 1-4,text,true,,156743,220,11,11,https://www.abulkhairgroup.com/about-us/,1219,0,0
+1654801450799,2719,Homepage,200,OK,Thread Group 1-7,text,true,,209672,124,12,12,https://www.abulkhairgroup.com/,1236,0,172
+1654801451283,2287,Homepage,200,OK,Thread Group 1-8,text,true,,209680,124,12,12,https://www.abulkhairgroup.com/,1352,0,166
+1654801452151,2022,about,200,OK,Thread Group 1-6,text,true,,156743,220,13,13,https://www.abulkhairgroup.com/about-us/,1609,0,0
+1654801451918,2713,career,200,OK,Thread Group 1-2,text,true,,167051,218,14,14,https://www.abulkhairgroup.com/career/,1791,0,0
+1654801452207,2775,about,200,OK,Thread Group 1-1,text,true,,156743,220,14,14,https://www.abulkhairgroup.com/about-us/,2219,0,0
+1654801451784,3362,Homepage,200,OK,Thread Group 1-9,text,true,,209672,124,14,14,https://www.abulkhairgroup.com/,2190,0,180
+1654801452253,2938,about,200,OK,Thread Group 1-5,text,true,,156751,220,14,14,https://www.abulkhairgroup.com/about-us/,2321,0,0
+1654801452636,2664,career,200,OK,Thread Group 1-3,text,true,,167056,218,15,15,https://www.abulkhairgroup.com/career/,2100,0,0
+1654801452279,3438,Homepage,200,OK,Thread Group 1-10,text,true,,209680,124,14,14,https://www.abulkhairgroup.com/,2716,0,177
+1654801452777,3384,Homepage,200,OK,Thread Group 1-11,text,true,,209680,124,15,15,https://www.abulkhairgroup.com/,2666,0,176
+1654801453570,2864,about,200,OK,Thread Group 1-8,text,true,,156743,220,16,16,https://www.abulkhairgroup.com/about-us/,2349,0,0
+1654801453246,3290,career,200,OK,Thread Group 1-4,text,true,,167051,218,16,16,https://www.abulkhairgroup.com/career/,2403,0,0
+1654801453519,3075,about,200,OK,Thread Group 1-7,text,true,,156743,220,15,15,https://www.abulkhairgroup.com/about-us/,2557,0,0
+1654801454174,3010,career,200,OK,Thread Group 1-6,text,true,,167051,218,16,16,https://www.abulkhairgroup.com/career/,2648,0,0
+1654801453277,3966,Homepage,200,OK,Thread Group 1-12,text,true,,209680,124,15,15,https://www.abulkhairgroup.com/,3302,0,179
+1654801453777,3824,Homepage,200,OK,Thread Group 1-13,text,true,,209672,124,16,16,https://www.abulkhairgroup.com/,3162,0,175
+1654801454291,4091,Homepage,200,OK,Thread Group 1-14,text,false,"The operation lasted too long: It took 4,091 milliseconds, but should not have lasted longer than 4,000 milliseconds.",209672,124,16,16,https://www.abulkhairgroup.com/,3425,0,177
+1654801454982,3532,career,200,OK,Thread Group 1-1,text,true,,167059,218,16,16,https://www.abulkhairgroup.com/career/,3088,0,0
+1654801455146,3695,about,200,OK,Thread Group 1-9,text,true,,156743,220,15,15,https://www.abulkhairgroup.com/about-us/,3247,0,0
+1654801454784,4403,Homepage,200,OK,Thread Group 1-15,text,false,"The operation lasted too long: It took 4,403 milliseconds, but should not have lasted longer than 4,000 milliseconds.",209672,124,15,15,https://www.abulkhairgroup.com/,3745,0,181
+1654801455192,4069,career,200,OK,Thread Group 1-5,text,false,"The operation lasted too long: It took 4,069 milliseconds, but should not have lasted longer than 4,000 milliseconds.",167051,218,15,15,https://www.abulkhairgroup.com/career/,3201,0,0
+1654801455718,3555,about,200,OK,Thread Group 1-10,text,true,,156743,220,14,14,https://www.abulkhairgroup.com/about-us/,3166,0,0
+1654801455282,4173,Homepage,200,OK,Thread Group 1-16,text,false,"The operation lasted too long: It took 4,173 milliseconds, but should not have lasted longer than 4,000 milliseconds.",209672,124,14,14,https://www.abulkhairgroup.com/,3564,0,165
+1654801456161,3760,about,200,OK,Thread Group 1-11,text,true,,156743,220,14,14,https://www.abulkhairgroup.com/about-us/,3373,0,0
+1654801455782,4252,Homepage,200,OK,Thread Group 1-17,text,false,"The operation lasted too long: It took 4,252 milliseconds, but should not have lasted longer than 4,000 milliseconds.",209680,124,14,14,https://www.abulkhairgroup.com/,3635,0,162
+1654801456435,3857,career,200,OK,Thread Group 1-8,text,true,,167048,218,14,14,https://www.abulkhairgroup.com/career/,3431,0,0
+1654801456594,3927,career,200,OK,Thread Group 1-7,text,true,,167051,218,13,13,https://www.abulkhairgroup.com/career/,3456,0,0
+1654801456282,4343,Homepage,200,OK,Thread Group 1-18,text,false,"The operation lasted too long: It took 4,343 milliseconds, but should not have lasted longer than 4,000 milliseconds.",209672,124,12,12,https://www.abulkhairgroup.com/,3714,0,162
+1654801457244,3772,about,200,OK,Thread Group 1-12,text,true,,156751,220,12,12,https://www.abulkhairgroup.com/about-us/,3323,0,0
+1654801456782,4366,Homepage,200,OK,Thread Group 1-19,text,false,"The operation lasted too long: It took 4,366 milliseconds, but should not have lasted longer than 4,000 milliseconds.",209672,124,12,12,https://www.abulkhairgroup.com/,3722,0,165
+1654801457602,3813,about,200,OK,Thread Group 1-13,text,true,,156743,220,12,12,https://www.abulkhairgroup.com/about-us/,3361,0,0
+1654801457282,4557,Homepage,200,OK,Thread Group 1-20,text,false,"The operation lasted too long: It took 4,557 milliseconds, but should not have lasted longer than 4,000 milliseconds.",209672,124,12,12,https://www.abulkhairgroup.com/,3913,0,164
+1654801458383,3629,about,200,OK,Thread Group 1-14,text,true,,156743,220,12,12,https://www.abulkhairgroup.com/about-us/,3171,0,0
+1654801458843,3456,career,200,OK,Thread Group 1-9,text,true,,167051,218,12,12,https://www.abulkhairgroup.com/career/,3009,0,0
+1654801459274,3275,career,200,OK,Thread Group 1-10,text,true,,167048,218,11,11,https://www.abulkhairgroup.com/career/,2878,0,0
+1654801460036,3046,about,200,OK,Thread Group 1-17,text,true,,156751,220,10,10,https://www.abulkhairgroup.com/about-us/,2689,0,0
+1654801459188,3897,about,200,OK,Thread Group 1-15,text,true,,156743,220,10,10,https://www.abulkhairgroup.com/about-us/,3116,0,0
+1654801459923,3197,career,200,OK,Thread Group 1-11,text,true,,167048,218,10,10,https://www.abulkhairgroup.com/career/,2813,0,0
+1654801459456,3755,about,200,OK,Thread Group 1-16,text,true,,156743,220,9,9,https://www.abulkhairgroup.com/about-us/,2973,0,0
+1654801460631,2989,about,200,OK,Thread Group 1-18,text,true,,156743,220,9,9,https://www.abulkhairgroup.com/about-us/,2630,0,0
+1654801461150,2689,about,200,OK,Thread Group 1-19,text,true,,156743,220,9,9,https://www.abulkhairgroup.com/about-us/,2327,0,0
+1654801461415,2498,career,200,OK,Thread Group 1-13,text,true,,167051,218,9,9,https://www.abulkhairgroup.com/career/,2114,0,0
+1654801461017,2922,career,200,OK,Thread Group 1-12,text,true,,167051,218,8,8,https://www.abulkhairgroup.com/career/,2102,0,0
+1654801461840,2510,about,200,OK,Thread Group 1-20,text,true,,156743,220,7,7,https://www.abulkhairgroup.com/about-us/,2097,0,0
+1654801462015,2481,career,200,OK,Thread Group 1-14,text,true,,167048,218,7,7,https://www.abulkhairgroup.com/career/,2037,0,0
+1654801463084,1813,career,200,OK,Thread Group 1-17,text,true,,167056,218,6,6,https://www.abulkhairgroup.com/career/,1457,0,0
+1654801463086,1941,career,200,OK,Thread Group 1-15,text,true,,167048,218,5,5,https://www.abulkhairgroup.com/career/,1449,0,0
+1654801463622,1579,career,200,OK,Thread Group 1-18,text,true,,167048,218,4,4,https://www.abulkhairgroup.com/career/,1270,0,0
+1654801463212,2014,career,200,OK,Thread Group 1-16,text,true,,167051,218,3,3,https://www.abulkhairgroup.com/career/,1555,0,0
+1654801463840,1502,career,200,OK,Thread Group 1-19,text,true,,167051,218,2,2,https://www.abulkhairgroup.com/career/,1145,0,0
+1654801464351,1381,career,200,OK,Thread Group 1-20,text,true,,167048,218,1,1,https://www.abulkhairgroup.com/career/,1024,0,0
